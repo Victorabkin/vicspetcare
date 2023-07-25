@@ -82,6 +82,11 @@ form {
   padding: 10px;
 }
 
+.right {
+  text-align: right;
+  float: right;
+}
+
 /* ----- */
 
 #feedback {
